@@ -1,0 +1,22 @@
+body {
+  background-color: #2b2d42;
+}
+.img-container {
+  background-color: #f6f6f6;
+  width: 600px;
+  margin: 5em auto;
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  gap: 0.5em;
+  padding: 2em;
+}
+
+.img-container > div {
+  text-align: center;
+}
+
+.img-container img {
+  width: 200px;
+  height: auto;
+  border-radius: 0.5em;
+}
