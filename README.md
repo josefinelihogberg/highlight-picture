@@ -1,4 +1,4 @@
-# Highlight-Picture (jQuery)
+# Highlight-Picture demo (jQuery)
 
 Image brightens when the mouse is over. Try Here: https://josefinelihogberg.github.io/highlight-picture/
 
